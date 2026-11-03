@@ -1,0 +1,69 @@
+{
+  "spider": "http://oss4liview.moji.com/thd_file/2026/09/24/06cf2230c30d9c26fa46ea79147b330d.jpg;md5;fc8f993c9297d38139363cd0e3db9853",
+  "wallpaper": "https://www.loliapi.com/acg/",
+  "sites": [
+    {
+      "key": "WexAiWenCai",
+      "name": "文才影视",
+      "type": 3,
+      "api": "csp_WexAiWenCaiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+     {
+      "key": "WexAiDuBoKu",
+      "name": "星空院线",
+      "type": 3,
+      "api": "csp_WexAiDuBoKuGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+   {
+      "key": "py_hktvyb",
+      "name": "优视频",
+      "type": 3,
+      "api": "./Plugin/py_hktvyb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+   {
+      "key": "py_lyyytv.py",
+      "name": "光影院线",
+      "type": 3,
+      "api": "./Plugin/py_lyyytv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+    ],
+"parses": [
+    {
+      "name": "聚合",
+      "type": 3,
+      "url": "Demo"
+    }
+   ],
+
+  "lives": [
+    {
+      "name": "黑龙江-TV",
+      "type": 0,
+      "pass": true,
+      "ua": "okhttp/4.12.0",
+      "epg": "http://51zmt.top",
+      "url": "http://217.116.171.202:5000/hlj.txt"
+    },
+  {
+      "name": "福建移动",
+      "type": 0,
+      "pass": true,
+      "ua": "okhttp/4.12.0",
+      "epg": "http://51zmt.top",
+      "url": "http://217.116.171.202:5000/ysp.m3u"
+   }
+  ]
+}
+ 
