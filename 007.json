@@ -57,7 +57,7 @@
       "url": "http://217.116.171.202:5000/hlj.txt"
     },
     {
-      "key": "py_live_custom",
+      "key": "py_everyday.py",
       "name": "港台直播",
       "type": 3,
       "api": "./Plugin/py_everyday.py",
