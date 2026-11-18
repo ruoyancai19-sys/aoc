@@ -29,6 +29,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "py_one",
+      "name": "one",
+      "type": 3,
+      "api": "./Plugin/py_one.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
    {
       "key": "py_lyyytv.py",
       "name": "光影院线",
