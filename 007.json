@@ -30,10 +30,10 @@
       "filterable": 1
     },
     {
-      "key": "py_freeok",
+      "key": "py_dsxys",
       "name": "佳影",
       "type": 3,
-      "api": "./Plugin/py_freeok.pyy",
+      "api": "./Plugin/py_dsxys.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
