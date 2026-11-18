@@ -56,14 +56,13 @@
       "epg": "http://51zmt.top",
       "url": "http://217.116.171.202:5000/hlj.txt"
     },
-    {
-      "key": "py_everyday.py",
-      "name": "港台直播",
-      "type": 3,
-      "api": "./Plugin/py_everyday.py",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+     {
+      "name": "综合-TV",
+      "type": 0,
+      "pass": true,
+      "ua": "okhttp/4.12.0",
+      "epg": "http://51zmt.top",
+      "url": "https://raw.githubusercontent.com/ruoyancai19-sys/aoc/refs/heads/main/99.m3u"
     },
    {
       "name": "福建移动",
