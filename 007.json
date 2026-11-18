@@ -39,15 +39,6 @@
       "filterable": 1
     },
      {
-      "key": "py_thanju",
-      "name": "thanju",
-      "type": 3,
-      "api": "./Plugin/py_thanju.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   {
       "key": "py_lyyytv.py",
       "name": "光影院线",
       "type": 3,
