@@ -506,39 +506,6 @@ http://134.195.210.149:30008/HistoryHD
 #KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
 http://134.195.210.149:30008/TravelxpHD
 
-#EXTM3U x-tvg-url="https://content.stream-link.org/epg/c1535cd0-81b6-4469-9dde-10ab687f9d6f/guide.xml"
-#EXTM3U
-#EXTINF:-1 group-title="精选+" tvg-id="CTI.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/827_1920x1080_HTV.png",中天亚洲
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d6c6ac1bf1d496aada3738e307a97cc:ea46dc47f8c0c977e47e85bfd255a433
-https://30008-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/CTITVHD
-#EXTINF:-1 group-title="精选+" tvg-id="ETTV.Asia.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/820_1920x1080_HTV.png",东森亚洲卫视
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dac34964e0094890a3c7f45e1fe6a697:452682f2f5ec1e42c4771abbc04c40f7
-https://30008-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/ETTVHD
-#EXTINF:-1 group-title="精选+" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS新闻
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
-https://30008-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/TVBSNews
-#EXTINF:-1 group-title="精选+" tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",TVBS亚洲
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
-https://30008-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/TVBSAsia
-#EXTINF:-1 group-title="精选+" tvg-id="Celestial.Movies.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",天映频道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
-https://30008-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/CelestialMoviesHD
-#EXTINF:-1 group-title="精选+" tvg-id="CCM.sg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",CCM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
-https://30008-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/CCM
-
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/myhomebox/EPG/refs/heads/main/output/4g.xml"
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="台灣頻道",中天新聞台
@@ -684,36 +651,6 @@ http://113.83.152.30:65531/bysid/96
 http://113.83.152.30:65531/bysid/99
 
 
-#EXTINF:-1 tvg-id="松視1台" tvg-name="松視1台" tvg-logo="" group-title="记录頻道",松視1台
-http://46.38.157.189:10805/402.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="松視2台" tvg-name="松視2台" tvg-logo="" group-title="记录頻道",松視2台
-http://46.38.157.189:10805/403.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="松視3台" tvg-name="松視3台" tvg-logo="" group-title="记录頻道",松視3台
-http://46.38.157.189:10805/404.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="彩虹頻道" tvg-name="彩虹頻道" tvg-logo="" group-title="记录頻道",彩虹頻道
-http://46.38.157.189:10805/406.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="JSTAR極限台電影頻道" tvg-name="JSTAR極限台電影頻道" tvg-logo="" group-title="记录頻道",JSTAR極限台電影頻道
-http://46.38.157.189:10805/2909.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="潘朵啦高畫質粉紅台" tvg-name="潘朵啦高畫質粉紅台" tvg-logo="" group-title="记录頻道",潘朵啦高畫質粉紅台
-http://46.38.157.189:10805/410.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="彩虹E台" tvg-name="彩虹E台" tvg-logo="" group-title="记录頻道",彩虹E台
-http://46.38.157.189:10805/415.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="潘朵啦高畫質玩美台" tvg-name="潘朵啦高畫質玩美台" tvg-logo="" group-title="记录頻道",潘朵啦高畫質玩美台
-http://46.38.157.189:10805/2932.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="" group-title="记录頻道",香蕉台
-http://46.38.157.189:10805/2930.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="HAPPY頻道" tvg-name="HAPPY頻道" tvg-logo="" group-title="记录頻道",HAPPY頻道
-http://46.38.157.189:10805/2908.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="極限電影" tvg-name="極限電影" tvg-logo="" group-title="记录頻道",極限電影
-http://46.38.157.189:10805/405.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="彩虹頻道" tvg-name="彩虹頻道" tvg-logo="" group-title="记录頻道",彩虹頻道
-http://46.38.157.189:10805/2914.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="奧視頻道" tvg-name="奧視頻道" tvg-logo="" group-title="记录頻道",奧視頻道
-http://46.38.157.189:10805/2915.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-#EXTINF:-1 tvg-id="奧視頻道2" tvg-name="奧視頻道2" tvg-logo="" group-title="记录頻道",奧視頻道2
-http://46.38.157.189:10805/2916.m3u8?key=OreiRUYFDyoZK4PuqZo0Uo6rPOftKc5F
-
-
 
 #EXTM3U
 #EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_mobile.png" group-title="Ofiii",中天新聞台
@@ -756,33 +693,6 @@ https://5050-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloud
 https://5050-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/play?id=litv-xinchuang21
 #EXTINF:-1 tvg-id="litv-xinchuang22" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_mobile.png" group-title="Ofiii",台灣戲劇台
 https://5050-firebase-twt-1774296558075.cluster-44kx2eiocbhe2tyk3zoyo3ryuo.cloudworkstations.dev/play?id=litv-xinchuang22
-
-#EXTINF:-1 tvg-id="dd4e8f9e76a806d448443e0e6b3bd36a" tvg-chno="31",港台電視 31
-http://blissbegins.dsmynas.net:9983/stream/channelid/512708317?ticket=cef335908cdf0e0defef7223545b449301088a68&profile=pass
-#EXTINF:-1 tvg-id="2457127400358617ff462fe32a52510a" tvg-chno="32",港台電視 32
-http://blissbegins.dsmynas.net:9983/stream/channelid/1947359012?ticket=de915741f155ee69d12813d8c28147f6eef02180&profile=pass
-#EXTINF:-1 tvg-id="7fba5739c4a9e4e9c94198eb4554eda9" tvg-chno="33",中央電視台綜合頻道（CCTV-1綜合)
-http://blissbegins.dsmynas.net:9983/stream/channelid/962050687?ticket=9ad49e34e2edd9fcee176cca0b9fd511d7c18554&profile=pass
-#EXTINF:-1 tvg-id="1d6b936904fc2b04ff25bcd2f5868eb8" tvg-chno="77",*HOY 77
-http://blissbegins.dsmynas.net:9983/stream/channelid/1771268893?ticket=d838eba1fe384725b48a06556a95a10b58f36e8d&profile=pass
-#EXTINF:-1 tvg-id="8145165306bbd41111d282958e1aee6f" tvg-chno="78",*HOY 78
-http://blissbegins.dsmynas.net:9983/stream/channelid/1393968513?ticket=cb73928659d3f1d3cf63e6031abdf5d2b8317da4&profile=pass
-#EXTINF:-1 tvg-id="21ef5baf4408d27bc6193c53e22c0281" tvg-chno="79",*HOY 76
-http://blissbegins.dsmynas.net:9983/stream/channelid/794554145?ticket=e4664e821051e60162066c20720372100495879c&profile=pass
-#EXTINF:-1 tvg-id="4214fb54e730863d4d1d171d66d8f54d" tvg-chno="81",Jade
-http://blissbegins.dsmynas.net:9983/stream/channelid/1425740866?ticket=51d23d18684af506058c6548f641c75559082600&profile=pass
-#EXTINF:-1 tvg-id="5ce9197c244e26e1f84a2bd970e54436" tvg-chno="82",TVB Plus
-http://blissbegins.dsmynas.net:9983/stream/channelid/2082072924?ticket=3288068c0d4fc2e4b2b296b2624ee8cfeca7bb13&profile=pass
-#EXTINF:-1 tvg-id="52ba487ab565c082dc6b218d59436420" tvg-chno="83",無綫新聞台
-http://blissbegins.dsmynas.net:9983/stream/channelid/2051586642?ticket=49ba052f9fff7ad2f560720dccc0f62f53bf9872&profile=pass
-#EXTINF:-1 tvg-id="1e6d7deb90c81326e1598c0ff5d14bfe" tvg-chno="84",明珠台
-http://blissbegins.dsmynas.net:9983/stream/channelid/1803382046?ticket=e4d3a0564273ee637305ef647565c63104985c13&profile=pass
-#EXTINF:-1 tvg-id="bf3832eacb8b95e2a87f4687134e6553" tvg-chno="85",鳳凰衛視香港台
-http://blissbegins.dsmynas.net:9983/stream/channelid/1781676223?ticket=295166f787c238a73a84ecb427636f54619404f4&profile=pass
-#EXTINF:-1 tvg-id="8e163affa25f68d18567a17e25a04f82" tvg-chno="96",ViuTVsix
-http://blissbegins.dsmynas.net:9983/stream/channelid/2134513294?ticket=6921cd9256bb407d6ed39e794ec922345fc20bd3&profile=pass
-#EXTINF:-1 tvg-id="c1f6afcff07d0785369fda861200dea7" tvg-chno="99",ViuTV
-http://blissbegins.dsmynas.net:9983/stream/channelid/1336932033?ticket=7a4765ee730290b50dfec9978be4d765cb03e0b0&profile=pass
 
 
 
